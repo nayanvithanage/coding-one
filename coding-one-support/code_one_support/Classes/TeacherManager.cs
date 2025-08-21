@@ -1,5 +1,16 @@
+using code_one_support.Models;
+
 namespace code_one_support.Classes
 {
+    /*
+    Yes, that's correct!
+
+    If a class is in a nested namespace like `code_one_support.Classes` and you want to use it in a file that's in `code_one_support`, you must add a `using code_one_support.Classes;` directive—even though both namespaces share the same parent.
+
+    **Summary:**  
+    Nested namespaces are treated as separate.  
+    You need a `using` statement to access classes from a nested namespace, even if you are in the same parent namespace.
+    */
     public class TeacherManager
     {
         private readonly List<Teacher> teachers = new List<Teacher>();

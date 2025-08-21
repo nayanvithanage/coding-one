@@ -1,4 +1,4 @@
-namespace code_one_support
+namespace code_one_support.Models
 {
     public class Teacher
     {

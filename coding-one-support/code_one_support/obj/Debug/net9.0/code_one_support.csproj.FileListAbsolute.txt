@@ -12,3 +12,4 @@ D:\Code\fullstack\coding-1\coding-one-support\code_one_support\obj\Debug\net9.0\
 D:\Code\fullstack\coding-1\coding-one-support\code_one_support\obj\Debug\net9.0\code_one_support.pdb
 D:\Code\fullstack\coding-1\coding-one-support\code_one_support\obj\Debug\net9.0\code_one_support.genruntimeconfig.cache
 D:\Code\fullstack\coding-1\coding-one-support\code_one_support\obj\Debug\net9.0\ref\code_one_support.dll
+D:\Code\fullstack\coding-1\coding-one-support\code_one_support\obj\Debug\net9.0\code_one_support.sourcelink.json
