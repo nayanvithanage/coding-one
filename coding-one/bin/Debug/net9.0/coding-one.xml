@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>coding-one</name>
+    </assembly>
+    <members>
+        <member name="T:coding_one.StudentController">
+            <summary>
+            Manage Students.
+            </summary>
+        </member>
+        <member name="M:coding_one.StudentController.Get">
+            <summary>
+            Gets all students.
+            </summary>
+        </member>
+        <member name="M:coding_one.StudentController.Get(System.Int32)">
+            <summary>
+            Gets student by Id.
+            </summary>
+        </member>
+        <member name="M:coding_one.StudentController.Post(coding_one.Models.Student)">
+            <summary>
+            Add new student.
+            </summary>
+        </member>
+        <member name="M:coding_one.StudentController.Put(System.Int32,coding_one.Models.Student)">
+            <summary>
+            Update existing student by Id.
+            </summary>
+        </member>
+        <member name="M:coding_one.StudentController.Delete(System.Int32)">
+            <summary>
+            Delete existing student by Id.
+            </summary>
+        </member>
+        <member name="T:coding_one.TeacherController">
+            <summary>
+            Manage Teachers.
+            </summary>
+        </member>
+        <member name="M:coding_one.TeacherController.Get">
+            <summary>
+            Gets all teachers.
+            </summary>
+        </member>
+        <member name="M:coding_one.TeacherController.Get(System.Int32)">
+            <summary>
+            Get teahcer by TeacherId.
+            </summary>
+        </member>
+        <member name="M:coding_one.TeacherController.Post(coding_one.Models.Teacher)">
+            <summary>
+            Add a new teacher.
+            </summary>
+        </member>
+        <member name="M:coding_one.TeacherController.Put(System.Int32,coding_one.Models.Teacher)">
+            <summary>
+            Update existing teacher.
+            </summary>
+        </member>
+        <member name="M:coding_one.TeacherController.Delete(System.Int32)">
+            <summary>
+             Delete existing teacher by id.
+             </summary>
+        </member>
+    </members>
+</doc>
